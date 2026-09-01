@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Hello from main brach!
+=======
+Hello from conflict branch!
+>>>>>>> conflict-test
 This if the first lesson...
 I am learning Git and GitHub. 
 This line is only on the feature branch. 
