@@ -1,2 +1,3 @@
 Hello GitHub!
 This if the first lesson...
+I am learning Git and GitHub. 
