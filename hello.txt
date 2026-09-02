@@ -1,4 +1,6 @@
 Hello from main branch!
 This if the first lesson...
-I am learning Git and GitHub.
+I am learning Git and Github.
 This line is only on the feature branch.
+I am learning fetch and pull.
+This is a fetch practice.
