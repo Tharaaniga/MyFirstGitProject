@@ -4,4 +4,7 @@ I am learning Git and Github.
 This line is only on the feature branch.
 I am learning fetch and pull.
 This is a fetch practice.
+<<<<<<< HEAD
 This change will be submitted as a Pull Request.
+=======
+>>>>>>> 604ed1b (Revert "Add revert practice")
