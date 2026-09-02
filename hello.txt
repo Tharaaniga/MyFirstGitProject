@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-Hello from main brach!
-=======
-Hello from conflict branch!
->>>>>>> conflict-test
+Hello from main branch!
 This if the first lesson...
-I am learning Git and GitHub. 
-This line is only on the feature branch. 
+I am learning Git and GitHub.
+This line is only on the feature branch.
